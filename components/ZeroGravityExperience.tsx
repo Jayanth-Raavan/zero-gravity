@@ -175,7 +175,7 @@ export default function ZeroGravityExperience() {
         <div className="intro-panel intro-panel-right" />
         <button className="intro-skip" onClick={() => setIntro(false)} tabIndex={intro ? 0 : -1}>Skip intro ↗</button>
         <div className="intro-center">
-          <img src="/zg-logo.png" alt="" />
+          <img src="/logo-zerogravity.png" alt="" />
           <span>ZERO GRAVITY</span>
           <small>PHOTOGRAPHY</small>
           <i />
@@ -185,7 +185,7 @@ export default function ZeroGravityExperience() {
 
       <header className={`topbar ${scrolled ? 'topbar-solid' : ''}`}>
         <a href="#top" className="logo-lockup" aria-label="Zero Gravity Photography concept home">
-          <img src="/zg-logo.png" alt="Zero Gravity logo" />
+          <img src="/logo-zerogravity.png" alt="Zero Gravity logo" />
           <span><b>ZERO GRAVITY</b><small>PHOTOGRAPHY</small></span>
         </a>
         <nav id="main-nav" className={menu ? 'nav-mobile-open' : ''}>
@@ -310,7 +310,7 @@ export default function ZeroGravityExperience() {
       </section>
 
       <footer>
-        <div className="footer-logo"><img src="/zg-logo.png" alt="Zero Gravity logo"/><div><b>ZERO GRAVITY</b><small>PHOTOGRAPHY</small></div></div>
+        <div className="footer-logo"><img src="/logo-zerogravity.png" alt="Zero Gravity logo"/><div><b>ZERO GRAVITY</b><small>PHOTOGRAPHY</small></div></div>
         <div className="footer-big">STAY IN<br/><em>THE MOMENT.</em></div>
         <div className="footer-links"><a href="#stories">Stories</a><a href="#films">Films</a><a href="#destinations">Destinations</a><a href="#baby">Baby</a><a href="https://www.instagram.com/zerogravityphotography/" target="_blank" rel="noreferrer">Instagram ↗</a></div>
         <div className="footer-bottom"><p>Website redesign concept prepared for Zero Gravity Photography.</p><span>Private V4 concept · Portfolio © Zero Gravity · Supporting stock imagery · Sample video and testimonial copy</span><a href="#top">Back to top ↑</a></div>

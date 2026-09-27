@@ -32,7 +32,7 @@ These are supporting concept images, not Zero Gravity portfolio work. Original U
 - `public/assets/stock-destination.jpg` — https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&fm=jpg&q=88&w=2000
 
 ## Other assets
-- `public/zg-logo.png`: logo retained from the supplied V3 project.
+- `public/logo-zerogravity.png`: logo retained from the supplied V3 project.
 - `public/media/sample.mp4`: CC0 flower footage from https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4 — explicitly labelled placeholder, not a wedding film.
 - Manrope: Google Fonts, SIL Open Font License; licence bundled with font assets.
 - Story headings are editorial concept titles, not invented client identities. Testimonials are labelled sample copy. Destination cards illustrate moods, not verified shoot locations.
